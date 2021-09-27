@@ -1,0 +1,2 @@
+# init
+degit saibotsivad/init
