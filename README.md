@@ -8,7 +8,11 @@ npx degit saibotsivad/init
 npm install --save-dev bundt uvu
 ```
 
-Then, inside the folder, do a search for:
+***Before opening in WebStorm!!!***
+
+You must resolve the `TODO` inside [./.idea/modules.xml](.idea/modules.xml) ***and*** rename [./.idea/TODO_REPO_NAME.iml](.idea/TODO_REPO_NAME.iml) to the project name, or WebStorm will complain. Hard.
+
+Inside the folder, do a search for:
 
 ```
 TODO_
