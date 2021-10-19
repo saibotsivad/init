@@ -1,4 +1,4 @@
-# changelog
+# Changelog
 
 All notable changes to this project will be documented in this file.
 
@@ -28,3 +28,4 @@ Change categories are:
 
 [Unreleased]: https://github.com/saibotsivad/{{TODO_REPO_NAME}}/compare/v0.0.0...HEAD
 [0.0.1]: https://github.com/saibotsivad/{{TODO_REPO_NAME}}/compare/v0.0.0...v0.0.1
+[0.0.0]: https://github.com/saibotsivad/{{TODO_REPO_NAME}}/tree/v0.0.0
