@@ -24,7 +24,7 @@ Change categories are:
 
 ## [0.0.0] - {{TODO_CURRENT_DATE}}
 ### Added
-- Created the base project.
+- Created the base project from [saibotsivad/init](https://github.com/saibotsivad/init).
 
 [Unreleased]: https://github.com/saibotsivad/{{TODO_REPO_NAME}}/compare/v0.0.0...HEAD
 [0.0.1]: https://github.com/saibotsivad/{{TODO_REPO_NAME}}/compare/v0.0.0...v0.0.1
