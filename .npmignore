@@ -1,0 +1,7 @@
+# IntelliJ/WebStorm stuff doesn't need to be published, ever
+/.idea
+# Github configs also don't need to be published, ever
+.github
+# no point in publishing these either
+.editorconfig
+.eslintrc.json
