@@ -1,7 +1,38 @@
-# IntelliJ/WebStorm stuff doesn't need to be published, ever
-/.idea
-# Github configs also don't need to be published, ever
+# IDEs
+.idea
+.vscode
+
+# Github configs and Workflows
 .github
-# no point in publishing these either
+
+# keeping projects tidy
 .editorconfig
 .eslintrc.json
+.eslintrc.js
+.eslintrc
+.eslintrc.yml
+.eslintignore
+.prettierrc.json
+.prettierrc
+.prettierignore
+.prettierrc.js
+.jshintrc
+.jshintignore
+.stylelintrc.json
+.verbrc.md
+.lintignore
+.csslintrc
+
+# other configurations
+.nvmrc
+.gitattributes
+
+# build environments
+.travis.yml
+.circleci
+
+# test runners and related
+.zuul.yml
+.nycrc
+.testignore
+.istanbul.yml
