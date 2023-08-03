@@ -5,7 +5,7 @@ mkdir my-lib
 cd my-lib
 # then
 npx degit saibotsivad/init
-npm install --save-dev bundt uvu
+npm install --save-dev saibotsivad/bundt uvu
 ```
 
 ***Before opening in WebStorm!!!***
